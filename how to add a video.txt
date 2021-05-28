@@ -1,0 +1,4 @@
+1. get an mp4 file from anywhere
+2. put the mp4 file in the folder
+3. rename the file to "main" without the .mp4 extension
+4. run the script
